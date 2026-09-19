@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "version": "1.0.0",
+  "name": "eduquiz-bahrain",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
